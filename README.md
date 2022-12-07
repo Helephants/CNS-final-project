@@ -1,4 +1,4 @@
-# Foobar
+# Integrating Privacy Mechanisms with Real-World VR Systems
 
 This project contains C# impementation of 3 Privacy Mechanisms 
 
