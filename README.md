@@ -4,7 +4,7 @@ This project contains C# impementation of 3 Privacy Mechanisms
 
 ## How To Run
 
-Unzip the ConsoleProj.zip and travel to that folder and type the following commands  .
+Unzip the ConsoleProj.zip and travel to that folder and type the following command
 
 ```bash
 dotnet run csv 
